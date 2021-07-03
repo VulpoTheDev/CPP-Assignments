@@ -1,0 +1,4 @@
+﻿  CaseStudy5.cpp
+C:\Users\Vulpo\source\repos\CaseStudy5\CaseStudy5\CaseStudy5.cpp(20,19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Vulpo\source\repos\CaseStudy5\CaseStudy5\CaseStudy5.cpp(9,19): warning C4101: 'month': unreferenced local variable
+  CaseStudy5.vcxproj -> C:\Users\Vulpo\source\repos\CaseStudy5\Debug\CaseStudy5.exe
