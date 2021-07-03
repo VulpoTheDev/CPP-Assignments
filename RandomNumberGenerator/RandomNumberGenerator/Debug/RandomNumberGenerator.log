@@ -1,0 +1,3 @@
+﻿  RandomNumberGenerator.cpp
+C:\Users\Vulpo\source\repos\RandomNumberGenerator\RandomNumberGenerator\RandomNumberGenerator.cpp(9,19): warning C4244: 'initializing': conversion from 'time_t' to 'unsigned int', possible loss of data
+  RandomNumberGenerator.vcxproj -> C:\Users\Vulpo\source\repos\RandomNumberGenerator\Debug\RandomNumberGenerator.exe
